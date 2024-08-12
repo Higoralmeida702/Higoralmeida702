@@ -41,6 +41,6 @@
 
 ###
 
-<p align="left">📚 Atualmente estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul Virtual.<br><br>📫 Como entrar em contato comigo: higoralmeida7022@gmail.com</p>
+<p align="left">📚 Atualmente estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul.<br><br>📫 Como entrar em contato comigo: higoralmeida7022@gmail.com</p>
 
 ###
