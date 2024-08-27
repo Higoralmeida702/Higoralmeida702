@@ -1,45 +1,51 @@
-<h2 align="left">Olá, me chamo Higor!<br><br> Seja bem-vindo ao meu Github 👋</h2>
+<h1 align="left">Seja bem-vindo ao meu Github 👋</h1>
+
+###
+
+<p align="left">Olá, me chamo Higor!</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Higoralmeida702&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/91koor.gif"  />
+
+###
+
+<p align="left">📊 Comprometido com o aprendizado contínuo e evolução na carreira de tecnologia<br><br>📚 Atualmente estou no segundo semestre cursando superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul<br><br>🎯 Metas: Dominar ASP.NET e C# para criar aplicações web robustas e escaláveis, contribuindo para projetos inovadores  <br><br>🎲 Curiosidade: Apaixonado por hardware, sempre em busca de entender o que há por trás das máquinas, e entusiasta de esportes, seja praticando ou acompanhando o mundo esportivo<br><br>📫 Como entrar em contato comigo:  higoralmeida7022@gmail.com</p>
+
+###
+
+<h2 align="left">Utilizo:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/higoralmeida702/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
 
-<p align="left">📚 Atualmente estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul Virtual.<br><br>📫 Como entrar em contato comigo: higoralmeida7022@gmail.com</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/902hue.gif"  />
-</div>
+<p align="left"></p>
 
 ###
